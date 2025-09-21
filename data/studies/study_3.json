@@ -1,0 +1,146 @@
+{
+    "study_id": "003",
+    "study_name": "Squeezed at the Middle: How GOLD-2025 Updates and Medicare Price Talks on Trelegy Rewire Prescribing Boundaries in COPD",
+    "study_summary": "The study “Squeezed at the Middle” investigates how pulmonologists are redefining the role of triple therapy in COPD treatment following the GOLD-2025 updates and amid Medicare price negotiations targeting Trelegy. It explores how clinicians set prescribing boundaries—when to intensify to triple therapy, optimize duals, or pivot to emerging add-ons like ensifentrine or dupilumab—while factoring in climate-driven exacerbations, comorbidities, and access constraints. The research also probes expectations around plan behavior, patient affordability, communication of value, and evidence needs, with the goal of mapping practical “if-this-then-that” algorithms and anticipating how physicians will manage tier reshuffles without destabilizing patients.",
+    "research_motivation": "The 2025 GOLD report introduced notable updates (e.g., climate and comorbidity focus) and continued evolution of pharmacologic guidance. Separately, in January 2025 the U.S. named GSK’s Trelegy Ellipta among drugs targeted for future Medicare price negotiations—raising questions about class value, access rules, and switching dynamics in older COPD populations. These policy and guidance moves hit exactly where many COPD patients live: on triple therapy.",
+    "research_directive": "Surface how pulmonologists mentally prioritize today’s triple-therapy role after GOLD-2025 changes and amid pressure from policy/cost headlines. Map current prescribing boundaries: when do clinicians intensify to triple vs optimize dual therapy vs consider add-ons like ensifentrine or dupilumab? Have climate-related exacerbation patterns, CV/PH co-management, or rehab access nudged them toward earlier or later triple therapy? Have Medicare negotiation headlines altered expectations about plan behavior (step edits, tiering, PA renewals) and patient affordability—and do those expectations vary across rural vs urban and academic vs community settings? Capture how clinicians anticipate communicating value (exacerbation prevention, hospital avoidance) if formularies or patient costs shift for Trelegy in 2026–2027.  Elicit practical “if-this-then-that” algorithms used now: what triggers a move off triple therapy (side effects, ICS risks), what triggers a switch within triple options, and when they would pivot to biologic or nebulized alternatives. Unpack the discussion scripts they use with seniors on Medicare (COPD burden, adherence simplification with single-inhaler triple vs multi-device regimens). Identify evidence asks that would influence future choices (head-to-head vs fixed-dose duals, exacerbation and CV endpoints by phenotype, rural patient outcomes). Close by documenting perceived winners/losers if price talks lead to tier reshuffles, and how clinicians foresee managing transitions without destabilizing patients. ",
+    "discussion_guide": {
+        "discussion_guide": {
+            "blocks": [
+                {
+                    "title": "Introduction",
+                    "questions": [
+                        {
+                            "big_question": "Purpose framing (plain-language): We’re exploring how you decide *when* triple therapy fits for COPD now that guidance and policy are shifting; how access dynamics might change; and how you communicate value and manage transitions for older Medicare patients."
+                        },
+                        {
+                            "big_question": "Warm-up: Tell me about your COPD panel—roughly how many, mix of phenotypes, and your setting (academic/community; urban/rural). What feels like it’s changed most in the past year?"
+                        },
+                        {
+                            "big_question": "Ground rules: No right/wrong answers, anonymized insights, we’re mapping *your* real decision patterns."
+                        },
+                        {
+                            "big_question": "Consent to think aloud: Ask them to narrate “why” behind choices."
+                        }
+                    ]
+                },
+                {
+                    "title": "Block A — Today’s mental model of triple therapy (role & boundaries)",
+                    "questions": [
+                        {
+                            "big_question": "Walk me through your current mental model for where triple therapy fits. When do you escalate to triple versus optimize dual therapy (LABA/LAMA or LABA/ICS) or consider add-ons?",
+                            "probes": [
+                                "Typical if-this-then-that thresholds (exacerbations, symptom burden, technique/adherence issues, prior pneumonia/ICS risk).",
+                                "Single-inhaler triple vs multi-device simplification—how much does regimen complexity drive your choice with seniors on Medicare?",
+                                "How do comorbidities (CV risk, possible PH-COPD) shape the boundary? (If relevant, what you watch before/after intensifying.)"
+                            ]
+                        },
+                        {
+                            "big_question": "Have the GOLD-2025 updates nudged you earlier or later toward triple?",
+                            "probes": [
+                                "Reaction to ensifentrine and dupilumab appearing in follow-up pathways—do they delay triple, replace it for some phenotypes, or co-exist?",
+                                "Has the new PH-COPD “treatable traits” framing or the climate-exacerbation emphasis changed your step-up/step-down timing for certain patients?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Block B — Your practical algorithm (triggers, switches, and step-downs)",
+                    "questions": [
+                        {
+                            "big_question": "Let’s map your actual algorithm. Take a recent patient and narrate the pathway: dual → triple → add-on (or not).",
+                            "probes": [
+                                "Specific triggers to move to triple (e.g., ≥2 moderate/1 severe exacerbation; persistent symptoms despite optimized dual; device-technique limits; frequent steroids).",
+                                "Triggers to choose add-ons instead of triple (eosinophilic phenotype for dupilumab; nebulized option via ensifentrine for technique/coordination limits).",
+                                "Any phenotype-based rules (e.g., blood eos cut-points) that gate ICS-containing triples."
+                            ]
+                        },
+                        {
+                            "big_question": "What reliably pushes you off triple or prompts a switch within triple options?",
+                            "probes": [
+                                "ICS-related risks (pneumonia, thrush), systemic steroid load, side effects, adherence friction, affordability/device access.",
+                                "Within-class moves (device preference, formulary, perceived exacerbation prevention, hospital avoidance).",
+                                "How you operationalize ICS-withdrawal in 2025 (who, when, how you monitor)."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Block C — Access & policy expectations (2026–2027)",
+                    "questions": [
+                        {
+                            "big_question": "How have the Medicare price-negotiation headlines (e.g., Trelegy selected for 2027) shaped your expectations of plan behavior?",
+                            "probes": [
+                                "Anticipated tier reshuffles, step edits (e.g., dual → triple), PA renewal cycles, and nebulized vs inhaled coverage rules.",
+                                "Where you expect seniors’ out-of-pocket to land and how that could sway initial choice vs switch timing.",
+                                "Differences you foresee by rural vs urban and academic vs community (formularies, clinic resources, samples)."
+                            ]
+                        },
+                        {
+                            "big_question": "If formularies or patient costs shift for Trelegy in 2026–2027, how will you communicate “value” to patients and plans?",
+                            "probes": [
+                                "Your go-to proof points (exacerbation prevention, hospital avoidance, regimen simplification) and how you’d adjust if co-pays increase.",
+                                "“What would you need from manufacturers to help you defend the choice?” (e.g., copay support, switch kits, device training, discharge bundles).",
+                                "What messages resonate most in Medicare visits vs commercial patients?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Block D — Climate, rehab access, and co-management as boundary shifters",
+                    "questions": [
+                        {
+                            "big_question": "Have climate-related patterns (heat, wildfire smoke/air quality) changed your intensification timing or monitoring cadence?",
+                            "probes": [
+                                "Any seasonal “pre-emptive” adjustments or earlier escalation in high-risk months.",
+                                "Patient self-management scripts you teach (action plans, pulse-ox/telemonitoring, when you reach for add-ons vs triple).",
+                                "Rural vs urban differences (exposure, access to clean-air spaces)."
+                            ]
+                        },
+                        {
+                            "big_question": "How do cardio/PH co-management and rehab access alter your path?",
+                            "probes": [
+                                "With suspected PH-COPD or high CV risk, do you time intensification differently or coordinate tests before triple?",
+                                "Does limited rehab access (or tele-rehab availability) push you earlier toward pharmacologic intensification?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Block E — Evidence asks & future choice architecture",
+                    "questions": [
+                        {
+                            "big_question": "What specific evidence would most influence your future boundary decisions?",
+                            "probes": [
+                                "Head-to-head: single-inhaler triple vs fixed-dose duals, or vs add-ons (ensifentrine/dupilumab) by phenotype.",
+                                "Endpoints you want (moderate/severe exacerbations, time to first, hospitalizations, CV outcomes, PH-COPD subgroups, rural outcomes, device adherence metrics).",
+                                "Real-world data needs (switch stability, discontinuation after ICS withdrawal, adherence on single- vs multi-device regimens)."
+                            ]
+                        },
+                        {
+                            "big_question": "Tier reshuffle scenario. “Your plan moves Trelegy to a higher tier; PA renewals tighten.” Walk me through your transition plan that avoids destabilizing patients.",
+                            "probes": [
+                                "Default alternatives and who you’d proactively switch vs who you’d grandfather.",
+                                "Touchpoints (discharge clinics, pharmacy syncs, RT training), messaging scripts for seniors, and how you’d monitor post-switch for exacerbations."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Conclusion",
+                    "questions": [
+                        {
+                            "big_question": "Algorithm recap: “If this… then that…” (moderator summarizes back their triggers to confirm)."
+                        },
+                        {
+                            "big_question": "Final word: “If you were advising a colleague on managing COPD amidst tier changes and GOLD-2025 updates, what one rule of thumb would you share?”"
+                        },
+                        {
+                            "big_question": "Close & thanks."
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

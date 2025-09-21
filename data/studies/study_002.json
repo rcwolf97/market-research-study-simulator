@@ -1,0 +1,113 @@
+{
+    "study_id": "002",
+    "study_name": "Nebulized Maintenance Reimagined: Pulmonologists’ Positioning of Ensifentrine (Ohtuvayre) in COPD Care Paths",
+    "study_summary": "This study examines how clinicians position ensifentrine, the first‑in‑class dual PDE3/4 inhibitor, within maintenance therapy. It explores which patient types benefit most (e.g., poor inhaler technique, low inspiratory flow, persistent dyspnea) and how device preferences, logistics, and payer rules shape use. It also identifies message elements needed to differentiate ensifentrine from existing bronchodilators and from prior experiences with PDE4 inhibitors.",
+    "research_motivation": "The FDA approved ensifentrine (Ohtuvayre) on June 26, 2024, as a nebulized maintenance treatment for COPD, supported by Phase 3 ENHANCE data; the approval introduced a novel, dual PDE3/4 mechanism with bronchodilator and non‑steroidal anti‑inflammatory effects. citeturn1search2turn1news13 GOLD 2025 subsequently added ensifentrine to maintenance options and follow‑up algorithms, providing guidance on add‑on use for symptomatic patients despite dual bronchodilation. citeturn2search2turn2search3",
+    "research_directive": "Direct the discussion to understand where ensifentrine fits relative to LABA/LAMA and triple therapy in real practice: triggers for adding a nebulized maintenance agent (persistent dyspnea, frequent SABA use, suboptimal inhaler technique, low inspiratory flow), expectations of symptom relief vs exacerbation impact, and how clinicians will sequence or combine therapies. Explore beliefs, past experiences, and skepticism related to PDE4 mechanisms (e.g., comparisons to roflumilast tolerability), and clarify how the nebulized route reframes patient selection—particularly among older adults, those with cognitive/arthritis limitations, and rural patients with limited training resources.\n\nProbe device and logistics mindsets: home nebulizer access, set‑up and maintenance burdens, teaching workflows, and coordination with DMEs; adherence perceptions for nebulization versus handheld inhalers; and anticipated payer realities (coverage, prior auth criteria, step‑edits with dual bronchodilators). Identify the clinical endpoints that would convince adoption (patient‑reported outcomes, rescue use, clinic‑observed FEV1 changes) and the message elements that resonate (dual PDE3/4 MOA made simple, population most similar to their panels, practical “how I use it” stories). Contrast academic vs community norms for evidence thresholds and capture urban vs rural differences in access, DME reliability, and patient coaching capacity.",
+    "discussion_guide": {
+        "intro": "Moderator intro, purpose, and ground rules\n- We’re exploring how you manage symptomatic COPD today and where a nebulized maintenance option like ensifentrine might fit. No right or wrong answers—please speak from your own practice.\n- Confidentiality assured; we’re recording for note accuracy; we’re interested in your real-world experiences, not textbook answers.\n- We’ll focus on patient types, sequencing decisions, logistics, access, and the kind of evidence and messaging that would (or would not) change behavior.\n\nQuick participant context (one line each)\n- Practice setting (academic vs community), geography (urban/suburban/rural), typical COPD panel size/severity mix, and percent using nebulized therapies today for maintenance vs rescue.",
+        "blocks": [
+            {
+                "title": "Today’s COPD playbook: where nebulized maintenance could fit",
+                "questions": [
+                    {
+                        "big_question": "Walk me through your current maintenance sequencing for moderate–very severe COPD. Where do LABA/LAMA, triple therapy, and any nebulized maintenance options show up in your algorithm—and why?",
+                        "probes": [
+                            "Triggers for adding/switching therapy: persistent dyspnea, frequent SABA use, suboptimal inhaler technique, low inspiratory flow, frequent exacerbations, chronic bronchitis phenotype.",
+                            "Real-patient example: Think of a recent patient who wasn’t where you wanted them despite dual bronchodilation. What you did, why, and what happened."
+                        ]
+                    },
+                    {
+                        "big_question": "When you hear “nebulized maintenance,” which patient scenarios immediately come to mind versus those for whom you still push handheld inhalers?",
+                        "probes": [
+                            "Older adults; cognitive impairment; arthritis/dexterity limits; low inspiratory flow; language/health literacy; home support.",
+                            "Rural vs urban issues: training resources, travel burden, telehealth coaching.",
+                            "Perceived benefits/downsides of nebulization versus handhelds in day-to-day life."
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Ensifentrine (Ohtuvayre) mindset: mechanism, expectations, and position vs bronchodilators/triple",
+                "questions": [
+                    {
+                        "big_question": "What are your impressions of ensifentrine so far—what it is, how it works (dual PDE3/4), and what you expect it to do in the clinic?",
+                        "probes": [
+                            "Balance of symptom relief (dyspnea, rescue use, daily function) versus exacerbation impact; onset and durability expectations; safety/tolerability concerns.",
+                            "PDE4 beliefs shaped by past roflumilast experiences (e.g., GI tolerability, weight loss): what carries over, what feels distinct, and why."
+                        ]
+                    },
+                    {
+                        "big_question": "In your personal algorithm, where—if anywhere—would you place ensifentrine today or after more experience?",
+                        "probes": [
+                            "As add-on to dual bronchodilation for symptomatic patients? Before or after ICS/triple therapy—and why?",
+                            "Would you combine it with LABA/LAMA or triple? What patient phenotypes would you prioritize (e.g., persistent dyspnea, chronic bronchitis, frequent SABA users, low inspiratory flow)?",
+                            "What would make you move it earlier or later in the sequence?"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Patient selection and care-path execution",
+                "questions": [
+                    {
+                        "big_question": "Think of your last 2–3 COPD visits where the patient remained symptomatic on LABA/LAMA. For each, would you consider ensifentrine—why or why not?",
+                        "probes": [
+                            "Specifics: mMRC/CAT levels, E-RS symptoms, rescue frequency, FEV1, inspiratory flow, inhaler technique history, adherence patterns, home support, comorbidities.",
+                            "What success would look like in 4–12 weeks; what would trigger discontinuation or escalation."
+                        ]
+                    },
+                    {
+                        "big_question": "If you start ensifentrine, how would you operationalize it in your clinic?",
+                        "probes": [
+                            "Baseline measures and follow-up checks: clinic FEV1, symptom/PROs (CAT, E-RS), rescue use, activity tolerance, sleep, exacerbations.",
+                            "Dosing routine fit (BID), co-therapy adjustments, how you communicate expectations (“what you’ll feel and when”).",
+                            "Stop rules and switching logic; documentation you’d capture to show benefit."
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Device, logistics, and adherence realities",
+                "questions": [
+                    {
+                        "big_question": "Talk me through the nuts and bolts of nebulization in your practice. What helps and what hinders you from using a nebulized maintenance agent at scale?",
+                        "probes": [
+                            "Access to home nebulizers; choice of device; set-up and cleaning; replacement/maintenance; typical time burden for the care team.",
+                            "Teaching workflow: who teaches, teach-back methods, printed/video materials, multilingual support; coordination with DMEs; reliability by region (urban vs rural); telehealth and remote monitoring."
+                        ]
+                    },
+                    {
+                        "big_question": "Adherence and patient experience—how do you see nebulization comparing with handheld inhalers in the real world?",
+                        "probes": [
+                            "Session time and daily routines; portability/travel; caregiver involvement; electricity/power outages; storage and sanitation.",
+                            "Adherence predictors and red flags; strategies you use to drive persistence (reminder systems, follow-up cadence, pharmacist or RT involvement).",
+                            "What data or tools would help you monitor and manage adherence better."
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Access, evidence thresholds, and messages that move behavior",
+                "questions": [
+                    {
+                        "big_question": "What payer realities do you anticipate for ensifentrine, and how would that shape your prescribing?",
+                        "probes": [
+                            "Prior auth criteria you expect: step edits after dual bronchodilators, documentation of symptom burden, inhaler technique issues, low inspiratory flow, exacerbation history.",
+                            "Channel and logistics: specialty vs retail pharmacy; DME coordination; Medicare vs commercial differences; urban vs rural access pain points; appeal experiences."
+                        ]
+                    },
+                    {
+                        "big_question": "What clinical endpoints and story elements would convince you to adopt—and to scale—use of ensifentrine?",
+                        "probes": [
+                            "Endpoints: changes you can see/measure in clinic (FEV1), reductions in rescue SABA use, PROs (CAT, E-RS), exacerbations, activity tolerance/QOL, time to perceived relief.",
+                            "Subgroup reads relevant to “patients like mine” (older adults, low inspiratory flow, poor inhaler technique, chronic bronchitis, frequent SABA users).",
+                            "Messaging that resonates: simple way to explain dual PDE3/4 MOA; practical “how I use it” tips from peer KOLs; case vignettes; checklists; teach-back scripts; adherence hacks.",
+                            "Evidence threshold differences: academic vs community expectations; what real-world evidence or head-to-heads would tip you from selective to routine use."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

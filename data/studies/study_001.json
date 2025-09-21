@@ -1,0 +1,125 @@
+{
+    "study_id": "001",
+    "study_name": "Entering the Biologic Era in COPD: How Pulmonologists Will Identify, Treat, and Monitor Eosinophilic COPD After Dupilumab’s FDA Approval",
+    "study_summary": "This study explores how U.S. pulmonologists will operationalize the first biologic for COPD following dupilumab’s approval. It examines phenotype identification, treatment sequencing after maximal inhaled therapy, and real‑world access and monitoring. Differences by practice setting (rural/urban; academic/community) will be compared to reveal distinct barriers, decision rules, and message needs.",
+    "research_motivation": "On September 27, 2024, the FDA approved dupilumab (Dupixent) as the first biologic for COPD, indicated for adults with inadequately controlled COPD and an eosinophilic phenotype (~300,000 U.S. patients), based on the BOREAS and NOTUS trials that showed reduced exacerbations and improved lung function and quality of life when added to standard therapy. citeturn1search0turn1news14 In 2025, GOLD incorporated dupilumab into its pharmacologic follow‑up algorithms for selected patients with persistent exacerbations and type 2 inflammation, signaling a shift toward biomarker‑guided care. citeturn2search1turn2search2turn2search3",
+    "research_directive": "Guide the discussion to map clinicians’ current and intended algorithms for identifying and treating “type 2–high” COPD: what clinical clues prompt suspicion (exacerbation history despite dual/triple therapy, chronic bronchitis features, oral steroid dependence, coexisting asthma), when and how blood eosinophils are ordered/interpreted (stability of counts, repeat testing thresholds), and how guideline updates are being internalized at the point of care. Explore practical workflow adaptations (EHR prompts, lab access in rural vs urban practices), anticipated monitoring (symptoms, exacerbations, spirometry), and endpoints viewed as proof of value in routine practice. \n\nElicit benefit–risk framing and therapeutic trade‑offs versus escalating inhaled therapy (and potential ICS de‑escalation), perceived eligible population size within their panels, and cross‑stakeholder roles (PCPs, nurses, pharmacists, specialty pharmacy). Probe access and payer dynamics (prior auth, step therapy, documentation), patient education needs (self‑injection comfort, expectations on onset and exacerbation reduction), and communication elements that increase credibility (trial populations most analogous to their patients, magnitude of effect that feels practice‑changing). Contrast academic vs community mindsets around evidence sufficiency and real‑world data, and surface unique barriers in non‑academic and rural settings (lab availability, infusion vs self‑administration training, care coordination across distances).",
+    "discussion_guide": {
+        "intro": "Welcome, purpose, and confidentiality reminder\n- We’re exploring how you identify and manage “type 2–high”/eosinophilic COPD and how dupilumab’s approval and guideline updates may shape care. There are no right/wrong answers; we’re interested in real-world practice.\nWarm-up and role context\n- Briefly describe your practice (academic/community, urban/suburban/rural), COPD panel size, typical care team, and payer mix.\n- Roughly what percentage of your COPD patients have recurrent exacerbations despite dual or triple inhaled therapy?",
+        "blocks": [
+            {
+                "title": "Recognizing “Type 2–High” COPD in Practice and Where Dupilumab Fits",
+                "questions": [
+                    {
+                        "big_question": "Walk me through your current algorithm for a COPD patient who continues to exacerbate despite optimized dual or triple inhaled therapy.",
+                        "probes": [
+                            "What specific clinical clues make you suspect a type 2/eosinophilic phenotype? (e.g., frequent exacerbations, chronic bronchitis features, oral steroid dependence, history of atopy, nasal polyps, coexisting or past asthma, high FeNO if used)",
+                            "When do you think “this is more inflammation-driven than airflow-only”?",
+                            "Where do roflumilast, chronic macrolide therapy, mucolytics, pulmonary rehab, bronchoscopic interventions, and now dupilumab enter your flow?",
+                            "How, if at all, has the 2025 GOLD follow-up algorithm update influenced your mental model or sequencing?"
+                        ]
+                    },
+                    {
+                        "big_question": "Where do you see dupilumab fitting today in your step-up path, and what alternative you’d consider instead if not dupilumab?",
+                        "probes": [
+                            "What patient archetypes feel “right” for dupilumab vs continued inhaled escalation? Who feels borderline or “not yet”?",
+                            "What would you need to see in the first 3–6 months to feel confident you chose correctly?",
+                            "Any concerns about labeling nuances (e.g., eosinophilic phenotype definition, coexisting asthma history) that shape your use?"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Eosinophil Testing: Ordering, Interpreting, and Acting",
+                "questions": [
+                    {
+                        "big_question": "How, when, and how often do you order blood eosinophils in COPD, and how do you interpret the results?",
+                        "probes": [
+                            "Timing: baseline, during stability vs during/after exacerbation; impact of oral steroids or infections on counts; how long you wait after steroids to re-check.",
+                            "Thresholds and stability: What cut points (e.g., ≥150, ≥300 cells/µL) trigger action? How many repeat draws do you require and over what interval?",
+                            "Metrics: absolute eosinophil count vs percentage; do you look at trends?",
+                            "Other biomarkers: FeNO, IgE, sputum eosinophils—used or not, and why?"
+                        ]
+                    },
+                    {
+                        "big_question": "Operational realities and workflow supports for eos testing.",
+                        "probes": [
+                            "Access: on-site labs vs send-outs; turnaround time; rural vs urban differences.",
+                            "EHR: order sets, prompts, smart phrases, eos flags in problem list; decision support that would be helpful.",
+                            "Who on your team orders/follows up on eos? (PCP vs pulmonology; nurses; pharmacists)",
+                            "What do you do if eos are borderline (e.g., 200–299 cells/µL) or fluctuate? Do you use a “confirmatory” process before biologic initiation?"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Benefit–Risk Trade-offs, Monitoring, and Defining Value",
+                "questions": [
+                    {
+                        "big_question": "Compare initiating dupilumab vs escalating/continuing inhaled strategies in a patient with recurrent exacerbations and elevated eos.",
+                        "probes": [
+                            "Benefits you expect: exacerbation reduction, OCS-sparing, lung function, quality of life, symptom burden, hospitalizations.",
+                            "Risks/trade-offs: safety concerns, pneumonia risks with high-dose ICS vs potential ICS de-escalation once controlled on dupilumab; adherence, injection burden; unknowns about long-term outcomes.",
+                            "What magnitude of effect feels “practice‑changing” for your real-world patients? How do BOREAS/NOTUS outcomes map onto your expectations?"
+                        ]
+                    },
+                    {
+                        "big_question": "How will you monitor response and make continue/stop decisions?",
+                        "probes": [
+                            "Time horizons: What do you assess at 1–3–6–12 months? What constitutes a “responder” for you?",
+                            "Measures: annualized exacerbation rate/steroid bursts, CAT/mMRC, SGRQ, spirometry trends, ED/hospitalization visits, work/ADL functioning.",
+                            "De-escalation: If controlled, would you reduce ICS dose or step off triple to dual? Under what criteria and sequence?",
+                            "Documentation you plan to capture to show value to patients, payers, and your group."
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Access, Payer Requirements, and Team-Based Workflow",
+                "questions": [
+                    {
+                        "big_question": "Walk me through the access process in your setting for dupilumab: prior auth, step therapy, and documentation.",
+                        "probes": [
+                            "Criteria you’re seeing or expect (eosinophil thresholds, exacerbation history, failure on optimized triple therapy/adherence checks, smoking status, comorbid asthma exclusions/inclusions).",
+                            "Variability across payers (Medicare Advantage vs commercial) and anticipated approval timelines; denials and appeal strategies; letter of medical necessity elements that matter.",
+                            "Channel: specialty pharmacy vs buy‑and‑bill; shipping coordination; storage; refill cadence.",
+                            "Financial navigation: copay, foundation support; conversation scripts with patients about costs."
+                        ]
+                    },
+                    {
+                        "big_question": "Practical workflow adaptations and cross-stakeholder roles to make biologics work in COPD.",
+                        "probes": [
+                            "Team roles: who educates, trains, tracks labs, and monitors response (nurses, pharmacists, RTs, care coordinators, specialty pharmacy liaisons)?",
+                            "Self-injection readiness: training needs, device preference (pen vs syringe), first-dose observation vs at-home start, troubleshooting missed doses.",
+                            "Rural/community specifics: lab access, fewer ancillary staff, transportation, telehealth use, coordinating across distances.",
+                            "EHR playbook: best-in-class order sets, task lists, documentation templates you’d want to standardize across your group."
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Evidence Confidence, Education Needs, and Adoption Mindset",
+                "questions": [
+                    {
+                        "big_question": "What makes the evidence feel credible and applicable to your patients—and where do you want more?",
+                        "probes": [
+                            "Trial population “match”: which BOREAS/NOTUS subgroups map to your panel (age, smoking status, exacerbation burden, comorbidities)? Any patient types you’re unsure about?",
+                            "Safety and AE profile: what you’re watching for; steroid-sparing benefits vs ICS pneumonia risk trade-offs.",
+                            "Academic vs community lens: what threshold of RWE (registries, pragmatic trials) would accelerate adoption? What endpoints and timeframes?",
+                            "What communication elements (data displays, KOL voices, guideline algorithms, case examples) increase trust?"
+                        ]
+                    },
+                    {
+                        "big_question": "Education priorities for clinicians, staff, and patients.",
+                        "probes": [
+                            "Clinician education: clear eos thresholds and retesting rules; where dupilumab sits in GOLD follow-up; who is in/out of label; when to consider ICS de-escalation.",
+                            "Patient education: setting expectations on onset and trajectory (symptoms vs exacerbations), injection comfort, adherence tips, side-effect vigilance, when to call.",
+                            "Tools/format: quick-reference algorithms, EHR smart phrases, checklists, nurse teaching guides, videos; preferred channels (society webinars, local grand rounds, peer-to-peer).",
+                            "What would most reduce hesitation in non-academic or resource-limited settings?"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

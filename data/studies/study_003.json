@@ -1,0 +1,148 @@
+{
+    "study_id": "003",
+    "study_name": "From Hospital to Home Ventilation: Pulmonologists’ Interpretation and Implementation of CMS’s 2025 NCD for COPD Chronic Respiratory Failure",
+    "study_summary": "This study explores how pulmonologists will translate CMS’s new national coverage determination for home noninvasive ventilation into everyday decisions. It uncovers discharge‑to‑home pathways, device selection (RAD vs HMV), documentation practices, and collaboration with DMEs and pulmonary rehabilitation. It highlights setting‑specific barriers and enablers across academic/community and rural/urban contexts to inform education and support services.",
+    "research_motivation": "In June 2025, CMS finalized a national coverage determination establishing Medicare coverage criteria for home noninvasive ventilation (including respiratory assist devices with backup and home mechanical ventilators) for chronic respiratory failure due to COPD, replacing patchwork local policies and specifying qualifying criteria and follow‑up expectations. citeturn5search1turn5search3turn5search7 This policy change materially affects hospital discharge planning and outpatient COPD management by standardizing access to RADs/HMVs nationwide. citeturn5search0",
+    "research_directive": "Center the conversation on clinicians’ awareness and understanding of the NCD and how it changes their care pathways: definitions of “the right patient at the right time,” clinical triggers for escalation (e.g., persistent hypercapnia despite optimal medical therapy), and how thresholds and documentation will be applied in real cases. Map the discharge‑to‑home workflow (team roles, testing, education, care plan sign‑off), device selection logic (RAD vs HMV; backup rate considerations), and integration with oxygen therapy and pulmonary rehabilitation across different settings (academic vs community; rural vs urban). \n\nProbe operational pain points (DME/supplier capacity, training and adherence monitoring, data access and telemonitoring, readmission risk management), payer interpretations (practical documentation checklists, recertification cadence), and patient/caregiver readiness (burden, safety concerns, home environment). Identify what clinical outcomes and real‑world evidence would signal success and confidence (adherence, exacerbation‑related utilization, symptom/function measures) and what enablement assets are most needed (checklists, order sets, discharge toolkits, device‑agnostic troubleshooting). Contrast how larger academic centers vs smaller community practices will operationalize the policy and what support is required to avoid rural access inequities.",
+    "discussion_guide": {
+        "intro": "Welcome, purpose: We’re exploring how you interpret and plan to operationalize CMS’s 2025 national coverage determination (NCD) for home NIV (RADs with backup and HMVs) in COPD chronic respiratory failure.\nConfidentiality: No attribution; aggregate reporting only. There are no right/wrong answers—interested in your experience and perspective.\nFlow: We’ll start with your awareness/interpretation, then walk through patient identification, discharge‑to‑home workflow, device selection, operations/payers, and close on outcomes and support needs.\nWarm‑up: In a sentence or two, describe your current approach to identifying and managing COPD patients with chronic respiratory failure in your practice.",
+        "blocks": [
+            {
+                "title": "Awareness and Interpretation of the NCD",
+                "questions": [
+                    {
+                        "big_question": "In your own words, what changed with the 2025 CMS NCD for home NIV in COPD, and what does it mean for your practice?",
+                        "probes": [
+                            "How did you first learn about it? What sources do you trust for policy/coverage updates?",
+                            "What is clear vs ambiguous in the policy language (e.g., qualifying criteria, follow‑up expectations, documentation)?",
+                            "Where do you feel most/least confident applying it today?"
+                        ]
+                    },
+                    {
+                        "big_question": "How are you defining “the right patient at the right time” under this NCD?",
+                        "probes": [
+                            "Clinical phenotype(s) you have in mind (e.g., frequent exacerbators, persistent hypercapnia post‑exacerbation despite optimized therapy).",
+                            "How do comorbidities (overlap OSA, obesity hypoventilation, HF) affect eligibility or timing?",
+                            "What would make you initiate earlier vs wait? What risks of overtreatment/undertreatment concern you?"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Clinical Triggers, Thresholds, and Documentation",
+                "questions": [
+                    {
+                        "big_question": "Walk me through your clinical triggers to escalate to home NIV under the NCD.",
+                        "probes": [
+                            "What constitutes “persistent hypercapnia” in your practice? How do you confirm it (ABG vs transcutaneous/ETCO2; inpatient vs outpatient timing)?",
+                            "What does “optimized medical therapy” mean operationally (inhaled regimen, O2 titration, pulmonary rehab, exacerbation recovery window)?",
+                            "How do you rule out/handle OSA or other contributors before NIV?"
+                        ]
+                    },
+                    {
+                        "big_question": "How will you document eligibility and follow‑up to meet payer expectations?",
+                        "probes": [
+                            "Specific data you plan to capture (ABGs, timing relative to hospitalization, spirometry, nocturnal oximetry/CO2, comorbidity workup).",
+                            "Practical checklist elements you’d want in the chart. Who owns which parts (pulmonologist, hospitalist, RT, case manager)?",
+                            "Recertification cadence: what interval are you planning for reassessment, and what metrics will you show (adherence, symptom/function, CO2 change)?"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Micro‑vignette prompt (within Block B)",
+                "questions": [
+                    {
+                        "big_question": "Case 1: 72‑year‑old COPD (FEV1 32%), discharged 10 days ago after AECOPD; on LTOT; ABG today shows persistent hypercapnia; frequent exacerbations. Would you initiate home NIV now? What device and settings? What must be documented today?",
+                        "probes": []
+                    },
+                    {
+                        "big_question": "Case 2: 66‑year‑old COPD with suspected overlap OSA, daytime PaCO2 borderline; symptoms of nocturnal hypoventilation. How do you stage testing, sequence therapies, and document under the NCD?",
+                        "probes": []
+                    }
+                ]
+            },
+            {
+                "title": "Discharge‑to‑Home Workflow and Care Coordination",
+                "questions": [
+                    {
+                        "big_question": "Map your ideal discharge‑to‑home pathway for a qualifying COPD patient under the NCD.",
+                        "probes": [
+                            "Inpatient steps: who flags the patient, required tests, timing for ABG/re‑testing, pulmonary consult, case manager role.",
+                            "Hand‑off: order sets, prior authorization, DME coordination, patient/caregiver teaching, mask/interface selection, backup power/safety checks.",
+                            "First 30–90 days: follow‑up visits, remote checks, who reviews adherence/efficacy data, escalation/de‑escalation plan."
+                        ]
+                    },
+                    {
+                        "big_question": "How will roles differ by setting (academic vs community; rural vs urban)?",
+                        "probes": [
+                            "Team composition (RT availability, care coordinators), access to sleep lab/ABG, on‑site vs virtual education.",
+                            "For rural patients: DME reach, travel burden, connectivity for telemonitoring; how to prevent access inequities.",
+                            "What minimal viable workflow could a smaller practice implement without overwhelming staff?"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Device Selection and Therapy Integration",
+                "questions": [
+                    {
+                        "big_question": "Describe your decision logic for selecting device type and setup (RAD vs HMV; backup rate considerations).",
+                        "probes": [
+                            "Clinical profiles that push you toward RAD with backup (e.g., BPAP‑ST) vs HMV; when would you start without backup, if ever?",
+                            "Initial settings strategy (mode, backup rate, titration approach), humidification, interface selection, secretion management.",
+                            "Data you need from the device (usage, leak, CO2/SpO2 trends) and how you plan to access it."
+                        ]
+                    },
+                    {
+                        "big_question": "How will home NIV integrate with oxygen therapy and pulmonary rehab in your pathway?",
+                        "probes": [
+                            "Sequencing: O2 titration pre/post NIV initiation; targets and re‑assessment schedule.",
+                            "Pulmonary rehab: referral timing, adherence, and expected impact on symptoms/function alongside NIV.",
+                            "How you coordinate medication optimization (triple therapy, exacerbation prevention) with NIV rollout."
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Operations, Payer Execution, Outcomes, and Support Needs",
+                "questions": [
+                    {
+                        "big_question": "What operational pain points do you anticipate and how will you manage them?",
+                        "probes": [
+                            "DME/supplier capacity, setup delays, mask fitting, training at home vs clinic; weekend/after‑hours coverage.",
+                            "Monitoring: what telemonitoring platform, who reviews, how often, and how it fits into your EHR workflow; alerts you’d actually use.",
+                            "Readmission risk: how will NIV factor into your post‑discharge bundle and risk management?"
+                        ]
+                    },
+                    {
+                        "big_question": "What will “success” look like and what enablement assets would give you confidence?",
+                        "probes": [
+                            "Clinical endpoints you’ll track: adherence (hours/night, nights/week), exacerbation‑related utilization (ED, admits, LOS), PaCO2/ABG changes, symptoms (dyspnea, morning headaches), function (6MWT), quality‑of‑life (CAT, SGRQ), sleep quality.",
+                            "Real‑world evidence you’d trust (e.g., pragmatic outcomes by phenotype, rural access data, time‑to‑initiation impact).",
+                            "Tools you want: documentation checklists, EHR order sets, discharge toolkit, device‑agnostic troubleshooting guides, patient/caregiver education (plain‑language, multilingual, video), payer‑ready templates for initial/re‑cert documentation.",
+                            "What support would help smaller community practices match academic centers (shared RT resources, centralized telemonitoring, regional DME “fast lanes”)?"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Conclusion",
+                "questions": [
+                    {
+                        "big_question": "Quick reflection: If you could change one thing tomorrow to operationalize the NCD smoothly in your setting, what would it be?",
+                        "probes": []
+                    },
+                    {
+                        "big_question": "Prioritize top three support assets you’d actually use in the next 90 days.",
+                        "probes": []
+                    },
+                    {
+                        "big_question": "Any final advice for CMS, payers, DMEs, or manufacturers to ensure equitable access—especially for rural patients?",
+                        "probes": []
+                    }
+                ]
+            }
+        ]
+    }
+}

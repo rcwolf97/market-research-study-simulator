@@ -1,0 +1,117 @@
+{
+    "study_id": "002",
+    "study_name": "Nebulized Novelty: Positioning Ensifentrine (Ohtuvayre™) Amid Triple Therapy, Device Burden, and Rural Access",
+    "study_summary": "This study explores how pulmonologists position ensifentrine (Ohtuvayre™), the first novel COPD maintenance therapy in over 20 years, relative to dual therapy, triple therapy, and biologic add-ons. It investigates which patient subgroups benefit most from a nebulized dual-mechanism option, how clinicians weigh dosing time against device challenges, and what real-world heuristics they use for sequencing, titration, and combining therapies. The research also probes operational and equity barriers—such as nebulizer access, caregiver roles, and rural disparities—while capturing expectations for Merck’s acquisition-driven scale-up and the evidence pulmonologists want to support future adoption.",
+    "research_motivation": "Ensifentrine (Ohtuvayre) won FDA approval in June 2024 as the first inhaled COPD maintenance therapy with a novel MOA in >20 years (dual PDE3/4), delivered twice daily via a standard jet nebulizer (≈5–7 minutes). In 2025, FDA snapshots and HCP materials reinforced dosing and device specifics; concurrently, real-world and pipeline work around triple therapy (e.g., Breztri) continues. In July 2025, AP reported Merck’s $10B acquisition plan for Verona, signaling scale-up and competitive shifts.",
+    "research_directive": "Elicit how pulmonologists segment COPD candidates for ensifentrine versus (a) optimizing LAMA/LABA, (b) stepping to triple therapy, or (c) moving toward biologic add-ons. Drill into the perceived job-to-be-done for a nebulized, dual-mechanism bronchodilator/anti-inflammatory: Who benefits most (technique limitations, frailty, low inspiratory flow, poly-device fatigue)? What are clinicians’ device-time thresholds, and how do they weigh 5–7 minutes BID against inhaler coordination challenges? Capture specific titration/sequence heuristics and how they reconcile lung-function improvements (FEV1 AUC) with patient-salient outcomes (dyspnea, rescue use, exacerbations). Document beliefs about combining ensifentrine with other maintenance agents and any “real-world” workarounds (without mixing in nebulizer cup per label).  Probe operational and equity lenses: nebulizer availability, compressor reliability, DME logistics, and caregiver roles—especially in rural settings or low-resource communities. Contrast academic vs community comfort with prescribing and follow-up cadence; identify failure points (non-persistence, device cleaning, infection concerns). Explore how ATS/GOLD discourse and cardiopulmonary comorbidity framing influence adoption versus triple therapy. End with market-structure perceptions post-Merck deal: expectations for access programs, education, and evidence gaps pulmonologists want (exacerbation endpoints, subpopulation cuts, cardiopulmonary outcomes).",
+    "discussion_guide": {
+        "introduction": {
+            "warm_up": "Tell me about the last week of COPD clinic: what patient types were most common, and where treatment decisions felt least straightforward?",
+            "purpose": "We’re exploring how you decide and sequence COPD maintenance options in real-world care. There are no right answers—we’re interested in your decision paths and trade-offs. Confidentiality: De-identified insights only; session recorded for analysis. We won’t discuss individual patient identifiers. Please speak generally or in anonymized vignettes. I may share neutral prompts or scenarios. If anything is unclear, I’ll ask “what led you there?” so we can capture your reasoning."
+        },
+        "blocks": [
+            {
+                "title": "Positioning & Segmentation",
+                "questions": [
+                    {
+                        "big_question": "When a symptomatic COPD patient on maintenance presents (e.g., on LAMA/LABA but still limited), walk me through your actual decision path: optimize dual? step to triple? consider ensifentrine? consider biologic add-ons? What tips you one way or another?",
+                        "probes": [
+                            "Role of blood eos, exacerbation history, pneumonia risk, comorbid CV framing; how GOLD/ATS discourse shows up in your head in the room.",
+                            "Where do you place a nebulized dual-mechanism option versus ICS escalation?",
+                            "What’s the one scenario where your choice flips at the last minute?"
+                        ]
+                    },
+                    {
+                        "big_question": "Who is the ideal ensifentrine candidate in your panel—and who clearly isn’t? Why?",
+                        "probes": [
+                            "Technique limitations, low inspiratory flow, frailty, cognitive load, poly-device fatigue; home supports/caregiver dynamics.",
+                            "Academic vs community differences; rural vs urban (clinic resources, follow-up cadence).",
+                            "What would make you re-classify a patient from triple therapy trajectory to ensifentrine (or vice-versa)?"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Device Burden, Workflow & Access",
+                "questions": [
+                    {
+                        "big_question": "Patients often struggle with inhaler coordination; a nebulized dose can take roughly 5–7 minutes. How do you personally weigh time on device versus technique demands? Where is your ‘too long’ threshold?",
+                        "probes": [
+                            "What education or coaching moments move the needle (demo, RT/MA support, teach-back)?",
+                            "How do you set expectations for BID nebulization alongside other devices?",
+                            "What has actually improved adherence (texts, remote check-ins, caregiver involvement)?"
+                        ]
+                    },
+                    {
+                        "big_question": "Zoom into logistics: nebulizer availability, compressor reliability, DME channels, cleaning/maintenance, infection concerns—where do things break?",
+                        "probes": [
+                            "Rural realities (power outages, distances, supply chain, caregiver access) and equity considerations.",
+                            "What support would make nebulized maintenance more feasible (loaners, same-day DME, field educators)?",
+                            "If you’ve stopped or switched therapies due to device burden, what specifically failed?"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Sequencing & Combination Practices",
+                "questions": [
+                    {
+                        "big_question": "When adding ensifentrine, how do you sequence with LAMA/LABA or triple? What do you start/stop/space, and why?",
+                        "probes": [
+                            "Bridge strategies; day-parting with other maintenance or rescue; what you watch in the first 4–8 weeks (symptoms, rescue use, oximetry, 6MWT).",
+                            "Signals that tell you to continue, step up to triple, or de-escalate ICS."
+                        ]
+                    },
+                    {
+                        "big_question": "In real clinics, people improvise. How do you combine ensifentrine with other maintenance agents while adhering to label (i.e., no mixing in the nebulizer cup)? What practical workarounds actually work?",
+                        "probes": [
+                            "Separation strategies and patient comprehension; EMR prompts; pharmacy/DME counseling.",
+                            "Errors you’ve seen and how you corrected them (education, checklists, pictograms)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Outcomes Translation & Evidence Needs",
+                "questions": [
+                    {
+                        "big_question": "How do you reconcile lung function signals (e.g., FEV₁/AUC) with patient-salient outcomes (dyspnea, rescue use, exacerbations, activity)? Which outcomes make you keep the therapy?",
+                        "probes": [
+                            "Any observed pattern with low PIFR, frailty, or technique-limited patients?",
+                            "What data convinces your partners (NP/PA/PCP) or your P&T committee?"
+                        ]
+                    },
+                    {
+                        "big_question": "If you had Merck’s ear, what next-wave evidence would you request to expand appropriate use?",
+                        "probes": [
+                            "Exacerbation endpoints (head-to-head vs triple), subpopulation cuts (low PIFR, elderly, cardiopulmonary comorbidity), ICS-sparing, hospitalizations/ED, QOL, PROs.",
+                            "Pragmatic “how-to” studies (adherence workflows, DME programs, caregiver support)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Adoption Drivers, Guidelines & Market Structure",
+                "questions": [
+                    {
+                        "big_question": "How do ATS/GOLD guidance and cardiopulmonary risk framing affect whether you place ensifentrine versus moving to triple?",
+                        "probes": [
+                            "Specific GOLD triggers that push you to ICS/triple vs alternatives; pneumonia risk; blood eos; payer utilization management paths."
+                        ]
+                    },
+                    {
+                        "big_question": "After the Merck–Verona deal announcement, what do you expect to change for you and your patients in the next 12–24 months?",
+                        "probes": [
+                            "Access programs (co-pay cards, DME bundles), HCP education, field clinical support, real-world evidence cadence; what would widen use and what would make you pull back?"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "conclusion": {
+            "wrap_reflection": "If you were designing a fair, guideline-aligned care path for your clinic: Where does a nebulized dual-mechanism option fit, exactly?",
+            "final_check": "One change from manufacturers/payers or DME that would most improve outcomes for your COPD patients using nebulized maintenance.",
+            "closeout": "Anything we didn’t ask that matters for real-world persistence (follow-up cadence, cleaning, infection concerns, device-time tolerance)? Thank participant, reiterate confidentiality and next steps."
+        }
+    }
+}
